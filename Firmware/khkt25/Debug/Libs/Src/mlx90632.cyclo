@@ -1,0 +1,13 @@
+../Libs/Src/mlx90632.c:56:12:mlx90632_start_measurement	7
+../Libs/Src/mlx90632.c:106:16:mlx90632_channel_new_select	3
+../Libs/Src/mlx90632.c:139:16:mlx90632_read_temp_ambient_raw	3
+../Libs/Src/mlx90632.c:171:16:mlx90632_read_temp_object_raw	6
+../Libs/Src/mlx90632.c:207:9:mlx90632_read_temp_raw	3
+../Libs/Src/mlx90632.c:229:8:mlx90632_preprocess_temp_ambient	1
+../Libs/Src/mlx90632.c:239:8:mlx90632_preprocess_temp_object	1
+../Libs/Src/mlx90632.c:251:8:mlx90632_calc_temp_ambient	1
+../Libs/Src/mlx90632.c:287:15:mlx90632_calc_temp_object_iteration	1
+../Libs/Src/mlx90632.c:313:6:mlx90632_set_emissivity	1
+../Libs/Src/mlx90632.c:318:8:mlx90632_get_emissivity	2
+../Libs/Src/mlx90632.c:330:8:mlx90632_calc_temp_object	2
+../Libs/Src/mlx90632.c:351:9:mlx90632_init	5

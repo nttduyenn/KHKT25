@@ -1,0 +1,8 @@
+../Libs/Src/user_syscalls.c:1:5:_write	1
+../Libs/Src/user_syscalls.c:5:5:_read	1
+../Libs/Src/user_syscalls.c:9:5:_close	1
+../Libs/Src/user_syscalls.c:13:5:_isatty	1
+../Libs/Src/user_syscalls.c:17:5:_lseek	1
+../Libs/Src/user_syscalls.c:21:5:_fstat	1
+../Libs/Src/user_syscalls.c:25:5:_getpid	1
+../Libs/Src/user_syscalls.c:29:5:_kill	1

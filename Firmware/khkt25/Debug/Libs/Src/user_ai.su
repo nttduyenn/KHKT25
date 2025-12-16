@@ -1,0 +1,2 @@
+../Libs/Src/user_ai.c:15:6:AI_Init	24	static
+../Libs/Src/user_ai.c:43:11:AI_Run	48	static

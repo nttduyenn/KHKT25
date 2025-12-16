@@ -1,0 +1,7 @@
+../Libs/Src/user_mlx.c:31:9:mlx90632_i2c_read	1
+../Libs/Src/user_mlx.c:42:9:mlx90632_i2c_read32	1
+../Libs/Src/user_mlx.c:53:9:mlx90632_i2c_write	1
+../Libs/Src/user_mlx.c:61:12:mlx90632_read_eeprom	14
+../Libs/Src/user_mlx.c:106:6:usleep	2
+../Libs/Src/user_mlx.c:110:6:MLX_Init	1
+../Libs/Src/user_mlx.c:118:8:MLX_Run	1
