@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/networkk.c:401:9:networkk_configure_activations	16	static
+../X-CUBE-AI/App/networkk.c:436:9:networkk_configure_weights	16	static
+../X-CUBE-AI/App/networkk.c:478:9:ai_networkk_get_info	160	static
+../X-CUBE-AI/App/networkk.c:525:9:ai_networkk_get_report	160	static
+../X-CUBE-AI/App/networkk.c:572:10:ai_networkk_get_error	16	static
+../X-CUBE-AI/App/networkk.c:579:10:ai_networkk_create	24	static
+../X-CUBE-AI/App/networkk.c:590:10:ai_networkk_create_and_init	88	static
+../X-CUBE-AI/App/networkk.c:625:12:ai_networkk_inputs_get	16	static
+../X-CUBE-AI/App/networkk.c:636:12:ai_networkk_outputs_get	16	static
+../X-CUBE-AI/App/networkk.c:647:11:ai_networkk_destroy	16	static
+../X-CUBE-AI/App/networkk.c:654:9:ai_networkk_init	24	static
+../X-CUBE-AI/App/networkk.c:671:8:ai_networkk_run	24	static
+../X-CUBE-AI/App/networkk.c:679:8:ai_networkk_forward	16	static

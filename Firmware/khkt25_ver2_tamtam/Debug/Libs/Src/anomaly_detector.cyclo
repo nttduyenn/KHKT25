@@ -1,0 +1,6 @@
+../Libs/Src/anomaly_detector.c:4:15:calculate_mean	3
+../Libs/Src/anomaly_detector.c:15:15:calculate_std	3
+../Libs/Src/anomaly_detector.c:28:6:Detector_Init	1
+../Libs/Src/anomaly_detector.c:35:6:Detector_AddValue	6
+../Libs/Src/anomaly_detector.c:94:6:Detector_GetStatistics	2
+../Libs/Src/anomaly_detector.c:125:6:Detector_Reset	1
